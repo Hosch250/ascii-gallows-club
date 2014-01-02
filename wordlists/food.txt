@@ -11,7 +11,7 @@ aspic
 avocado
 bacon
 bagel
-baked Alaska
+baked alaska
 bamboo shoots
 banana
 barley
@@ -36,17 +36,15 @@ breadfruit
 breakfast
 brisket
 broccoli
-broil
 brownie
 brown rice
-Brussels sprouts
+brussels sprouts
 buckwheat
 buns
 burrito
 butter
 butter bean
 cake
-calorie
 candy
 candy apple
 cantaloupe
@@ -66,9 +64,7 @@ chard
 cheddar
 cheese
 cheesecake
-chef
 cherry
-chew
 chicken
 chick peas
 chili
@@ -112,16 +108,11 @@ currants
 curry
 custard
 daikon
-daily bread
-dairy
 dandelion greens
-Danish pastry
+danish pastry
 dates
 dessert
 dill
-dine
-diner
-dinner
 dip
 dish
 dough
@@ -225,7 +216,6 @@ lunchmeat
 lychee
 macaroni
 macaroon
-main course
 maize
 mandarin orange
 mango
@@ -248,7 +238,6 @@ millet
 mincemeat
 minerals
 mint
-mints
 mochi
 molasses
 mole sauce
@@ -261,19 +250,13 @@ mussels
 mustard
 mustard greens
 mutton
-napkin
 nectar
 nectarine
 nibble
 noodles
 nosh
-nourish
-nourishment
 nut
 nutmeg
-nutrient
-nutrition
-nutritious
 oats
 oatmeal
 oil
@@ -283,11 +266,8 @@ olive
 omelet
 onion
 orange
-order
 oregano
-oven
 oyster
-pan
 pancake
 papaya
 parsley
@@ -316,7 +296,6 @@ pizza
 plum
 pomegranate
 pomelo
-pop
 popsicle
 popcorn
 popovers
@@ -337,10 +316,8 @@ quinoa
 radish
 raisin
 raspberry
-rations
 ravioli
 relish
-restaurant
 rhubarb
 ribs
 rice
@@ -362,7 +339,6 @@ sauerkraut
 sausage
 savory
 scallops
-scrambled
 seaweed
 seeds
 sesame seed
@@ -371,10 +347,6 @@ sherbet
 shish kebab
 shrimp
 slaw
-slice
-smoked
-snack
-soda
 soda bread
 sole
 sorbet
@@ -383,12 +355,10 @@ sorrel
 soup
 sour
 sour cream
-soy
 soybeans
 soysauce
 spaghetti
 spareribs
-spatula
 spices
 spinach
 split peas
@@ -400,7 +370,6 @@ squid
 steak
 stew
 stir-fry
-stomach
 strawberry
 string bean
 strudel
@@ -422,11 +391,9 @@ taro
 tarragon
 tart
 tea
-teapot
 teriyaki
 thyme
 toast
-toaster
 toffee
 tofu
 tomatillo
